@@ -1,1 +1,2 @@
-# test-repository
+# sukh first repo
+sukhjit is an awesome student
